@@ -1,5 +1,4 @@
-
-n() {
+(function() {
 var __customevents = {}, __protocol = {}, __connector = {}, __timer = {}, __options = {}, __reloader = {}, __livereload = {}, __less = {}, __startup = {};
 
 // customevents
